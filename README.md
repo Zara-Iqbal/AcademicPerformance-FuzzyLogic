@@ -1,8 +1,11 @@
 # AcademicPerformance-FuzzyLogic
 
 You'll need the following dependencies to run this project
+
 -numpy
+
 -scikit-fuzzy
+
 -matplotlib
 
 Students academic success is evaluated by their performance in exams conducted by the institutes or Universities. Considering
